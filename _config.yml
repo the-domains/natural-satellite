@@ -11,9 +11,8 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a96418-32e9-42a7-b640-835460cfb247.jpg
-  appId: jimmyturturici
+  image: null
+  appId: ''
 layout_spectrum: 0.12530109798535705
 author:
   name: Jimmy Turturici
