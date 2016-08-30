@@ -1,0 +1,14 @@
+layout_spectrum: 0.12530109798535705
+typography_spectrum: 0.04212079499848187
+color:
+  brandStrength: 0.3545487984083593
+  lightness: 0.3310725735500455
+  saturation: 0.2886769021861255
+  rhythmicContrast: 0.7349482055287808
+  brandColors:
+    - '#F6F7FC'
+    - '#02172A'
+    - '#105879'
+    - '#2896AC'
+    - '#40B6C5'
+name: Natural Satellite
