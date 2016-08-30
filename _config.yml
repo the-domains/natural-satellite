@@ -20,4 +20,8 @@ author:
   email: jimmyturturici@gmail.com
   url: www.naturalsatellite.net
 name: Natural Satellite
+navigation:
+  - name: Moonboots
+    url: www.naturalsatellite.net
+    type: external
 title: Jimmy Turturici
